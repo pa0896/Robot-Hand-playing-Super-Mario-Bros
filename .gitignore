@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+my-venv/
+yolov5/
+pyserialtty.py
+*.pyc
+*.pyo
+music/
+Keyboard_HCSR04/.vscode
+Keyboard_HCSR04/.settings
+ai_model/1_openvino_model/
+ai_model/1.onnx
+ai_model/best.onnx
+ai_model/best.pt
+video/
+music/
